@@ -3,7 +3,7 @@ import axios from 'axios';
 
 import { useForm } from 'react-hook-form';
 
-import { fetchData } from './store/index';
+import { fetchData } from '../store/index';
 
 const SmurfForm = () => {
     // from react hook form
